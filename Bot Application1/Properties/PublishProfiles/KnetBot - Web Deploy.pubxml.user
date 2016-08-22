@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+此檔案是由您 Web 專案的發行/封裝處理程序所使用。您可以編輯此 MSBuild 檔案，
+以自訂此處理程序的行為。若要深入了解，請造訪 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAG8BsCTr6YU2UDBDlj/XQ3AAAAAACAAAAAAAQZgAAAAEAACAAAACKcUeS6e1BDFqhaJtB7Y7I/IWORTlvMD+t68E+Fgb5VAAAAAAOgAAAAAIAACAAAAAH+8UVLZdIVMsTa9Q3N2UqzBfHCLfN59u5wAhFF6qSAYAAAADLB42ylbRC9DiBg6OtDYzMizt57WTywk6+v1sGORxpEMJJyQCVBi0plwgusQ/wl/fkimsoHK/QxJn+hmr9wcI54dr07UZyi/ls2ASAjodHKSwqEUz0HvhOYl4YwDEE8qzZj+9hgdW6z9CgaOcftqOJrIHc+2KHJOc65bEfgi5WnUAAAAB6DlYytPL/TdQOLGfHmswTcYOaF6mpj5ixxt1RER20zHP4S0+OnKuTMna0z8wteZAkDJw/nMz+4gJvOzYgLBrm</EncryptedPassword>
+  </PropertyGroup>
+</Project>

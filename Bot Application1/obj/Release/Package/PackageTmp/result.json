@@ -1,0 +1,69 @@
+﻿{
+  "query": "你們最近有開新課程嗎",
+  "intents": [
+    {
+      "intent": "詢問課程活動",
+      "score": 0.975912154,
+      "actions": [
+        {
+          "triggered": true,
+          "name": "詢問課程活動",
+          "parameters": [
+            {
+              "name": "請問",
+              "required": false,
+              "value": null
+            },
+            {
+              "name": "課程",
+              "required": false,
+              "value": [
+                {
+                  "entity": "新課程",
+                  "type": "課程",
+                  "score": 0.738864541
+                }
+              ]
+            },
+            {
+              "name": "活動",
+              "required": false,
+              "value": null
+            },
+            {
+              "name": "最近",
+              "required": false,
+              "value": [
+                {
+                  "entity": "最近",
+                  "type": "日期",
+                  "score": 0.8997892
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "intent": "None",
+      "score": 0.101850927
+    }
+  ],
+  "entities": [
+    {
+      "entity": "最近",
+      "type": "日期",
+      "startIndex": 2,
+      "endIndex": 3,
+      "score": 0.8997892
+    },
+    {
+      "entity": "新課程",
+      "type": "課程",
+      "startIndex": 6,
+      "endIndex": 8,
+      "score": 0.738864541
+    }
+  ]
+}
